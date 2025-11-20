@@ -1,3 +1,5 @@
+the nginx config file here goes in /etc/nginx/conf.d
+
 touch hello.sock
 
 gunicorn --bind 0.0.0.0:5000 wsgi:app &
