@@ -11,3 +11,5 @@ curl 127.0.0.1:5000
 curl 127.0.0.1
 
 "Hello, World"
+
+curl https://kong-f40972acc5us3jemn.kongcloud.dev/
